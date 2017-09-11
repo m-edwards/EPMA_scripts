@@ -4,7 +4,8 @@
 % a laser spot for LA work. It is recommended that the script is copied
 % into a separate folder for each sample because the ouputs are not named
 % by sample name, only by spot number. Thus, it will overwrite previous
-% spot files. 
+% spot files. Feel free to contact me at medwards@umail.ucsb.edu with
+% questions, improvements, etc. 
 
 clc 
 clear all
