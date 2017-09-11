@@ -3,7 +3,8 @@
 % script to suit your data by 1) inputting the name of the quantified X-ray
 % map data file 2) updating the location of the folder containing your spot
 % polygons (generated using a separate script), and 3) modifying the
-% element name and column locations to match your data file. 
+% element name and column locations to match your data file. Feel free to 
+%contact me at medwards@umail.ucsb.edu with questions, improvements, etc. 
 
 clc
 close all
